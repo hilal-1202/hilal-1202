@@ -1,4 +1,4 @@
-[![MasterHead](https://octodex.github.com/images/yogitocat.png)]
+![MasterHead](https://octodex.github.com/images/yogitocat.png)
 <h1 align="center">Hi 👋, I'm Hilal</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
